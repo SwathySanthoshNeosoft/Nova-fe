@@ -1,0 +1,46 @@
+@import url('./_variables.scss');
+
+.text-orange{
+  color: $orange;
+}
+
+.text-dark-green {
+  color: $dark-green;
+}
+
+.text-black{
+  color: $black;
+}
+
+.text-grey{
+  color: $text-grey;
+}
+
+.bg-dark-green{
+  background-color: $dark-green;
+}
+
+.bg-white{
+  background-color: $white;
+  opacity: 0.95;
+}
+
+.bg-orange {
+  background-color: $orange;
+}
+
+.bg-grey {
+  background-color: $grey;
+}
+
+.bg-input-grey{
+  background-color: $form-grey;
+}
+
+.bg-btn-light-green{
+  background-color: $light-green;
+}
+
+.bg-btn-dark-green {
+  background-color: $button-green;
+}
